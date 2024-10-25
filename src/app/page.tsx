@@ -117,7 +117,7 @@ export default function Home() {
               </CardContent>
               <CardFooter>
                 <Link
-                  href={"https://quicktabsearch.vercel.app/"}
+                  href={"https://chromewebstore.google.com/detail/quick-tab-search/opdfnpiageceeikdcdnineemfgjapjgm?authuser=0&hl=en-GB"}
                   target="_blank"
                   rel="noopener noreferrer"
                   className={buttonVariants({ variant: "default" })}
